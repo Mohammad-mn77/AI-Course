@@ -22,7 +22,7 @@ A desktop application for analyzing and estimating housing prices in Tehran usin
 
 - مهدی پور  
 - شمسایی  
-- محمدنژاد  
+- محمدنژاد قره لر  
 - ساسانی  
 
 ---
